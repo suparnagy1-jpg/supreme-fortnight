@@ -1,4 +1,4 @@
-# supreme-fortnight
+# working with splunk
  Getting Source Files into Splunk 🔍
 
 This project demonstrates how to add and manage source files in **Splunk**, showing the process from data input to indexing.  
