@@ -21,11 +21,6 @@ In this project, I have shown:
 ## 📸 Screenshots
 Here are the steps visually explained:
 
-![Screenshot 1 – Add Data Page](screenshot1.png)
-![Screenshot 2 – File Upload](screenshot2.png)
-![Screenshot 3 – Data Preview](screenshot3.png)
-
-
 ## 🛠️ Tools Used
 - Splunk Enterprise / Splunk Free
 - Sample log files or CSV data
